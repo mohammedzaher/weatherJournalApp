@@ -1,7 +1,7 @@
 # Weather-Journal App Project
 
 ## Overview
-This project requires to create an asynchronous web app that uses Web API and user data to dynamically update the UI.
+This application is an asynchronous web app that uses Web API and user data to dynamically update the UI.
 
 ### install require packages
 To run this project on your machine, nodejs should have been installed on your local machine then install the following packages 
